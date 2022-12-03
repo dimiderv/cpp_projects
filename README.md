@@ -13,4 +13,4 @@ Projects in this folder implement inheritance, operator oveload, constructor, co
 * Car.cpp, creates a class named Car that represent a car and user can:
   * create a car object and initialize license plate, brand
   * trade between cars
-* Vehicle.cpp, creates a class Vehicle that users can set brand and license plate. A new class that inherits Vehicle's properties and uses operator overload to either add more passengers or compare buses.
+* Vehicle.cpp, creates a class Vehicle that users can set brand and license plate. A new class that inherits Vehicle's properties and uses operator overload to either add more passengers or compare buses. An additional class Garage is created and user can check how many Buses are in the garage, if a buss is in the Garage and how many passengers are still waiting for their bus to leave the garage
